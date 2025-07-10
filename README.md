@@ -1,79 +1,82 @@
-<h1 align="center">🚀 Man Thakkar</h1>
+<h1 align="center">🧬 Man Thakkar</h1>
 
 <p align="center">
-  <strong>Full Stack Developer • UI Architect • Terminal-Native ⚡</strong><br/>
-  <em>Transforming code into beautiful digital experiences.</em>
+  <strong>🚀 Full Stack Developer | 🧠 UI Engineer | 💡 Tech Explorer</strong><br/>
+  <em>Transforming caffeine & chaos into glowing digital interfaces ⚡</em>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=140&section=header&text=Welcome%20to%20My%20Command%20Center&fontColor=00FFD2&fontSize=25&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=140&section=header&text=Welcome%20to%20My%20Terminal%20Universe&fontColor=00FFD2&fontSize=25&animation=fadeIn" />
 </p>
 
 ---
 
-## 📁 Projects
+## 📂 Projects Showcase
 
 ```js
-// Featured Work
+🔹 Zova = {
+  type: "E-commerce Web App",
+  stack: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
+  live: "https://zova.onrender.com"
+}
 
-🛒 Zova
-// A full-stack e-commerce platform
-Tech: React · Node.js · MongoDB · Tailwind
-Live: https://zova.onrender.com
+🔹 ProjectForge = {
+  type: "Project Management Tool",
+  status: "🚧 In Progress",
+  stack: ["React", "Redux", "Tailwind", "Framer Motion"]
+}
 
-🧠 ProjectForge
-// Project Management Tool (WIP)
-Tech: React · Redux · Framer Motion · Tailwind
-
-🩸 DONOR-GRID
-// Blood Donation System
-Tech: HTML · CSS · JS · PHP · MySQL
+🔹 DONOR-GRID = {
+  type: "Blood Donation Management System",
+  stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"]
+}
 ```
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Toolbox
 
 ```yaml
 Languages:   JavaScript, HTML, CSS, PHP, SQL
-Frontend:    React, Tailwind CSS, Framer Motion
+Frontend:    React, Tailwind CSS, Framer Motion, Vanilla JS
 Backend:     Node.js, Express, MongoDB, Firebase
-DevTools:    Git, Vercel, Netlify, Postman, VSCode
-Design:      Figma, Canva, Gradients, Glassmorphism
+UI/UX:       Figma, Canva, Gradient Magic ✨, Glassmorphism
+Dev Tools:   Git, Vercel, Netlify, Postman, VSCode, Render
 ```
 
 ---
 
-## 📊 GitHub Systems Monitor
+## 📊 GitHub Intelligence Center
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Man-Thakkar03&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Man-Thakkar03&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Man-Thakkar03&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Man-Thakkar03&theme=radical&hide_border=true" width="48%" />
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Matrix
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Man-Thakkar03&theme=react-dark&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Man-Thakkar03&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 ```bash
-> LinkedIn:  https://linkedin.com/in/your-link
-> Currently Exploring: Next.js · GraphQL · TypeScript · 3D Web
+📎 LinkedIn : https://www.linkedin.com/in/man-thakkar-9b4b3326b
+🌐 Portfolio: coming soon...
+📡 Learning  : Next.js · GraphQL · TypeScript · AI APIs
 ```
 
 ---
 
-## ⚡ Terminal Quote
+## ✨ Quote of the Build
 
 ```txt
-“Every glowing pixel has a purpose — 
+“Every glowing pixel has a purpose —
 and every bug is just a misunderstood feature.”
 ```
 
