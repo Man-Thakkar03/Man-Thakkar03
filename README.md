@@ -1,7 +1,7 @@
 <h1 align="center">🧬 Man Thakkar</h1>
 
 <p align="center">
-  <strong>🚀 Full Stack Developer | 🧠 UI Engineer | 💡 Tech Explorer</strong><br/>
+  <strong>🚀 Masters In Applied Computing | 🧠 Full-Stack Engineer | 💡 Tech Explorer</strong><br/>
   <em>Transforming caffeine & chaos into glowing digital interfaces ⚡</em>
 </p>
 
